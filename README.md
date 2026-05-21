@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/soham08-sm/Python/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/soham08-sm/Python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/soham08-sm/Python/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/soham08-sm/Python/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/soham08-sm/Python/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soham08-sm/Python/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/soham08-sm/Python/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/soham08-sm/Python/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
