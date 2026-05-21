@@ -42,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/soham08-sm/Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/soham08-sm/Python/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/soham08-sm/Python/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/soham08-sm/Python/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/soham08-sm/Python/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
