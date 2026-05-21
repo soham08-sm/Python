@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/soham08-sm/Python/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/soham08-sm/Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/soham08-sm/Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/soham08-sm/Python/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/soham08-sm/Python/tree/master/0169-majority-element) |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/soham08-sm/Python/tree/master/0933-number-of-recent-calls) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/soham08-sm/Python/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/soham08-sm/Python/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
